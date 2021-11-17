@@ -33,12 +33,16 @@ Tout ce qui est codé entre ces balises sera visible des internautes.
 ---------------- **VOCABULAIRE** ----------------
 
 **BALISES**
+
+
 Aussi appelés balises universelles, elle sont construit avec une balise ouvrante <> et d'une balise fermante </>. 
 Les balises sont constituées d'une valeur entre deux chevrons : < et >.
 Elles servent à construire le design d'une page.
 Par exemple : la balise p pour un paragraphe, la balise h +(1-2-3) pour les titres et sous titres... Elles structurent la page.
 
 **BALISES SEMANTIQUES**
+
+
 Elles fonctionnent comme les balises universelles (une balise ouvrante <>, et une fermante </>)
 Permetent un découpage plus précis d'une page web (que les balises universelles) en délimitant des zones spécifiques. 
 Permettent également aux robots d'indexations de mieux interpréter une page web et donc de cibler le contenu que l'on souhaite mettre en avant.
