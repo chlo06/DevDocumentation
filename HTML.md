@@ -3,7 +3,7 @@
 Le HTML ( l'HyperText Markup Language) est un language de balisage.
 Il pose les bases du site. C'est lui qui va dire au navigateur internet qui est quoi, et comment l'interpréter.
 
----------------- **VOCABULAIRE** ----------------
+---------------- **STRUCTURE** ----------------
 
 
 *La balise DOCTYPE -> <> !DOCTYPE html : Cette ligne précise au navigateur dans quel language nous parlons.
