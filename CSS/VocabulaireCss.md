@@ -20,7 +20,7 @@ La valeur doit se mettre après les :. Aussi il faut un ; pour fermer la ligne e
 
 
 
-**Média Querys**
+**MÉDIA QUERYS**
 
 Les Média Querys ( Requêtes Média ) permettent de modifer l'apparence d'un site ou d'une application en fonction du type d'appareil utilisé.
 Ce sont des régles qui indiquent quand on doit appliquer des propriétés CSS.
@@ -33,7 +33,7 @@ Pour cela il faut ajouter un nouveau link dans notre HTML et y ajouter l'attribu
 En utilisant un @ media et le point de rupture.
 
 
-**Responsive Design**
+**RESPONSIVE DESIGN**
 
 C'est un terme utilisé pour décrire une approche de la conception web, ou un ensemble de bonnes pratiques utilisées pour créer une mise en page qui peut correspondre à l'appareil utilisé pour visualiser le contenu.
 Ce terme décrit la combinaison de 3 techniques :
