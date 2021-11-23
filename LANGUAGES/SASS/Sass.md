@@ -1,7 +1,7 @@
 ----------------------------------------------- **SASS** ------------------------------------------------------
 
 
-**Sass** : Syntzctically Awesome Style Sheets,
+**Sass** : Syntactically Awesome Style Sheets,
 C'est un langage de script préprocesseur qui est compilé ou interprété en CSS et donc permet d'ajouter une surcouche de fonctionnalités au CSS. 
 Sass introduit le principe d'encapsulation, d'inclusions, permet de créer des variables contenant des règles CSS et de les réutiliser partout dans le code et bien plus encore...
 
