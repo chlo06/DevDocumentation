@@ -1,7 +1,5 @@
 ----------------------------------------------- **DÉFINITIONS BASIQUES** ------------------------------------------------------
 
-
-
 **IDE ( Environnement de Développement Intégré )**
 
 Un environnement de développement intégré, ou IDE, est un logiciel de création d'applications, qui rassemble des outils de développement fréquemment utilisés dans une seul interface utilisateur.
