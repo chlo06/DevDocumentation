@@ -8,15 +8,5 @@ On la déclare avec le mot-clé **var** ou **let** suivi du nom que l'on veut do
 
 **LET** à était ajouté plus récemment, avec un fonctionnement différent de **VAR**, réglant ainsi les difficultés d'interprétation.
 
-
--------- **Types de Variables** ---------
-
-- **Nombres**;
-
-- **Chaînes** : Ce sont des mots ou suites de mots à mettre entre guillemets simple ou double, sinon JS va tenter de l'interpreter en tant que nom de variable;
-
-- **Booléens** : Ce sont des valeurs True / False. Généralement utilisées pour tester une condition, à la suite de laquel le code est exécuté de manière appropriée;
-
-- **Tableaux** : Appelés **Array**, c'est un objet unique contenant plusieurs valeurs entre crochets séparées par des virgules.
-
-- **Objets** : En programmation un objet est une structure de code qui modélise un objet réel. Par exemple un personne avec comme données son nom, sa taille, son poids ... 
+---------- **CONST (constante)** -----------
+**CONST** permet de créer une constante accessible uniquement à la lecture. Elle ne peut pas être modifiée par des réafectations ni être déclarer à nouveau.
